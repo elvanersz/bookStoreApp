@@ -1,4 +1,4 @@
-export class book{
+export class Book{
   id: number |undefined;
   title: string = "";
   author: string = "";
